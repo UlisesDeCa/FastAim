@@ -10,3 +10,12 @@ Also the screenshot method of the FastFind library is quite old and there are so
 There is still many ways to optimize this and add new features but I will leave it as it is for now because it was just a one day project to use with the fortnite Thermal Vision and share with some friends.
 
 ![alt text](https://github.com/tutryx/FastAim/blob/main/Menu.png?raw=true)
+
+### Interception installation process
+Download [interception's latest release](https://github.com/oblitum/Interception/releases/download/v1.0.1/Interception.zip) and follow the steps:
+1. Extract files
+2. Copy the path of command line installer e.g: `C:\Users\tutryx\Downloads\Interception\command line installer`
+3. Open CMD with administrator rights
+4. Move to the command line installer directory `cd C:\Users\tutryx\Downloads\Interception\command line installer`
+5. Press TAB to select the .exe or write its name and add "/install" `command line installer/install`
+6. Reboot computer
